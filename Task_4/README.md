@@ -27,5 +27,4 @@ Overall Time Complexity: **O(N log N)**
 Space Complexity: **O(N)**
 
 ## How to Run Tests
-```bash
 python test_experiment_time.py
